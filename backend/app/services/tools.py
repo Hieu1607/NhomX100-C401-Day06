@@ -2,7 +2,7 @@ import json
 import os
 from langchain_core.tools import tool
 
-from app.services.weaviate_client import search_noi_quy
+from app.services.weaviate_client import search_chinh_sach
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "processed")
 
@@ -67,12 +67,7 @@ def tra_cuu_ho_so(query: str) -> str:
     found = _find_student(data, query)
     if not found:
         return f"Không tìm thấy học viên nào khớp với '{query}'."
-    result = json.dumps(found, ensure_ascii=False, indent=2)
-    result += (
-        f"\n\n⚠️ Lưu ý: Chỉ trả về thông tin của học viên được yêu cầu ({query}). "
-        "Không được phép tiết lộ thông tin của các học viên khác."
-    )
-    return result
+    return json.dumps(found, ensure_ascii=False)
 
 
 @tool
@@ -84,12 +79,7 @@ def tra_cuu_hoc_tap(query: str) -> str:
     found = _find_student(data, query)
     if not found:
         return f"Không tìm thấy dữ liệu học tập cho '{query}'."
-    result = json.dumps(found, ensure_ascii=False, indent=2)
-    result += (
-        f"\n\n⚠️ Lưu ý: Chỉ trả về thông tin của học viên được yêu cầu ({query}). "
-        "Không được phép tiết lộ thông tin của các học viên khác."
-    )
-    return result
+    return json.dumps(found, ensure_ascii=False)
 
 
 @tool
@@ -102,18 +92,13 @@ def tra_cuu_tai_chinh(query: str) -> str:
     found = _find_student_taichinh(data, query, profiles)
     if not found:
         return f"Không tìm thấy dữ liệu tài chính cho '{query}'."
-    result = json.dumps(found, ensure_ascii=False, indent=2)
-    result += (
-        f"\n\n⚠️ Lưu ý: Chỉ trả về thông tin của học viên được yêu cầu ({query}). "
-        "Không được phép tiết lộ thông tin tài chính của các học viên khác."
-    )
-    return result
+    return json.dumps(found, ensure_ascii=False)
 
 
 @tool
 def tra_cuu_noi_quy(query: str) -> str:
-    """Tra cứu nội quy, quy định của nhà trường Đại học ABC.
-    Sử dụng Weaviate QueryAgent để tìm kiếm ngữ nghĩa các điều khoản liên quan.
-    Có thể tìm theo: tên chương, số điều, hoặc nội dung (VD: 'kỷ luật', 'điều 5', 'thi cử').
+    """Tra cứu chính sách, nội quy, quy định của nhà trường Đại học VinUni.
+    Tìm kiếm ngữ nghĩa trên các chính sách như học phí, kỷ luật, nghỉ học, thi cử, hỗ trợ học viên.
     """
-    return search_noi_quy(query)
+    return search_chinh_sach(query)
+

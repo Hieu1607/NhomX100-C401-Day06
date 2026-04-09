@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Agent demo app for a university (Đại học ABC) student-support chatbot. Uses RAG (Retrieval-Augmented Generation) with LangChain agent framework, Groq LLM (`openai/gpt-oss-120b`), Weaviate Cloud vector database (with Weaviate `QueryAgent` for semantic search), and HuggingFace embeddings (`all-MiniLM-L6-v2`). Python/FastAPI backend, ReactJS frontend, orchestrated via Docker Compose.
+Agent demo app for a university (Đại học VinUni) student-support chatbot. Uses RAG (Retrieval-Augmented Generation) with LangChain agent framework, Groq LLM (`openai/gpt-oss-120b`), Weaviate Cloud vector database (with Weaviate `QueryAgent` for semantic search), and HuggingFace embeddings (`all-MiniLM-L6-v2`). Python/FastAPI backend, ReactJS frontend, orchestrated via Docker Compose.
 
 The agent has 2 tools:
 - `tra_cuu_hoc_vien` — student profile lookup from local JSON data
@@ -13,7 +13,7 @@ The agent has 2 tools:
 ## Commands
 
 ```bash
-# Start all services (backend + frontend + local Weaviate)
+# Start all services (backend + frontend)
 docker compose up --build
 
 # Backend only (local dev, requires venv)
@@ -35,7 +35,7 @@ python backend/app/services/weaviate_client.py
 
 ## Architecture
 
-- **docker-compose.yml** — 3 services: `weaviate` (local vector DB on :8080/:50051), `backend` (FastAPI on :8000), `frontend` (React on :3000)
+- **docker-compose.yml** — 2 services: `backend` (FastAPI on :8000), `frontend` (React on :3000). Vector DB uses Weaviate Cloud (no local container).
 - **backend/app/main.py** — FastAPI entrypoint, CORS configured for `localhost:3000`, includes `/health` endpoint
 - **backend/app/routers/agent.py** — `/api/chat` endpoint (POST), receives `message`, returns `reply` + `sources`
 - **backend/app/services/agent_service.py** — LangChain tool-calling agent: Groq LLM + 2 tools (`tra_cuu_hoc_vien`, `tra_cuu_noi_quy`), `build_agent()` creates AgentExecutor, `run_agent()` is the async entrypoint
