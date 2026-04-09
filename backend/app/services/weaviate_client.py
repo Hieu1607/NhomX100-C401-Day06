@@ -4,9 +4,6 @@ import os
 import weaviate
 from weaviate.classes.config import Configure, Property, DataType
 from weaviate.classes.init import Auth
-from weaviate.agents.query import QueryAgent
-from langchain_weaviate.vectorstores import WeaviateVectorStore
-from langchain_huggingface import HuggingFaceEmbeddings
 
 COLLECTION_NAME = "Document"
 POLICY_COLLECTION_NAME = "ChinhSachQuyDinh"
@@ -23,17 +20,6 @@ def get_weaviate_client() -> weaviate.WeaviateClient:
         auth_credentials=Auth.api_key(api_key),
     )
     return client
-
-
-def get_vectorstore(client: weaviate.WeaviateClient) -> WeaviateVectorStore:
-    """Create a LangChain WeaviateVectorStore with HuggingFace embeddings."""
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    return WeaviateVectorStore(
-        client=client,
-        index_name=COLLECTION_NAME,
-        text_key="content",
-        embedding=embeddings,
-    )
 
 
 def create_collection(client: weaviate.WeaviateClient) -> None:
@@ -149,46 +135,66 @@ def index_policies(client: weaviate.WeaviateClient, policies_path: str) -> None:
 
 
 def search_chinh_sach(query: str) -> str:
-    """Search for relevant policy entries using Weaviate QueryAgent."""
+    """Search for relevant policy entries using Weaviate collection queries."""
     client = get_weaviate_client()
     try:
-        qa = QueryAgent(client=client, collections=[POLICY_COLLECTION_NAME])
-        response = qa.search(query)
-        results = []
-        for obj in response.search_results.objects:
-            props = obj.properties
-            results.append({
-                "policy_id": props.get("policy_id", ""),
-                "topic": props.get("topic", ""),
-                "content": props.get("content", ""),
-                "source": props.get("source", ""),
-                "category": props.get("category", ""),
-                "priority": props.get("priority", ""),
-            })
-        return json.dumps(results, ensure_ascii=False, indent=2)
+        return _search_collection(
+            client=client,
+            collection_name=POLICY_COLLECTION_NAME,
+            query=query,
+            fields=["policy_id", "topic", "content", "source", "category", "priority"],
+        )
     finally:
         client.close()
 
 
 def search_noi_quy(query: str) -> str:
-    """Search for relevant regulation chunks using Weaviate QueryAgent."""
+    """Search for relevant regulation chunks using Weaviate collection queries."""
     client = get_weaviate_client()
     try:
-        qa = QueryAgent(client=client, collections=[COLLECTION_NAME])
-        response = qa.search(query)
-        results = []
-        for obj in response.search_results.objects:
-            props = obj.properties
-            results.append({
-                "chuong": props.get("chuong", ""),
-                "dieu": props.get("dieu", ""),
-                "content": props.get("content", ""),
-                "source": props.get("source", ""),
-                "doc_title": props.get("doc_title", ""),
-            })
-        return json.dumps(results, ensure_ascii=False, indent=2)
+        return _search_collection(
+            client=client,
+            collection_name=COLLECTION_NAME,
+            query=query,
+            fields=["chuong", "dieu", "content", "source", "doc_title"],
+        )
     finally:
         client.close()
+
+
+def _search_collection(
+    client: weaviate.WeaviateClient,
+    collection_name: str,
+    query: str,
+    fields: list[str],
+    limit: int = 4,
+) -> str:
+    """Query a Weaviate collection and return JSON-safe results for the agent."""
+    if not client.collections.exists(collection_name):
+        return (
+            f"Collection '{collection_name}' chưa được khởi tạo trong Weaviate. "
+            "Hãy index dữ liệu trước khi tra cứu."
+        )
+
+    collection = client.collections.get(collection_name)
+
+    try:
+        response = collection.query.near_text(query=query, limit=limit)
+    except Exception:
+        try:
+            response = collection.query.bm25(query=query, limit=limit)
+        except Exception as exc:
+            return f"Không thể truy vấn Weaviate lúc này: {exc}"
+
+    results = []
+    for obj in getattr(response, "objects", []) or []:
+        props = getattr(obj, "properties", {}) or {}
+        results.append({field: props.get(field, "") for field in fields})
+
+    if not results:
+        return f"Không tìm thấy kết quả phù hợp trong collection '{collection_name}'."
+
+    return json.dumps(results, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@ load_dotenv()
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routers import agent
+from app.routes import agent
 
 app = FastAPI(title="Agent Demo API")
 
