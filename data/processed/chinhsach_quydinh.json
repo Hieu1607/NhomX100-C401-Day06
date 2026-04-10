@@ -1,0 +1,4176 @@
+{
+  "POL-001": {
+    "policy_id": "POL-001",
+    "topic": "Lịch học 2024-2025",
+    "content": "Học kỳ I: 15/08 - 20/12/2024. Nghỉ học kỳ: 23/12 - 31/12/2024. Học kỳ II: 02/01 - 30/05/2025.",
+    "source": "Cẩm nang phụ huynh 2024-2025 - Mục lịch năm học",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "lich hoc",
+      "hoc ky",
+      "nam hoc",
+      "nghi giua ky"
+    ]
+  },
+  "POL-002": {
+    "policy_id": "POL-002",
+    "topic": "Biểu phí cơ bản",
+    "content": "Phí phát triển trường: 4.200.000 VNĐ/năm. Phí dịch vụ bán trú: khoảng 17.480.000 VNĐ/năm. Phí học phẩm: từ 1.650.000 VNĐ/năm.",
+    "source": "Biểu phí VinSchool 2024-2025 - Mục 3.1",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "hoc phi",
+      "phi phat trien truong",
+      "ban tru",
+      "phi hoc pham"
+    ]
+  },
+  "POL-003": {
+    "policy_id": "POL-003",
+    "topic": "Dịch vụ xe buýt",
+    "content": "Phí xe buýt dao động từ 17.480.000 đến 28.405.000 VNĐ/năm tùy tuyến. Xe chỉ chờ tối đa 02 phút tại điểm đón.",
+    "source": "Quy định dịch vụ xe buýt - Điều 4",
+    "category": "transport",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "xe buyt",
+      "diem don",
+      "lich trinh",
+      "phi dich vu"
+    ]
+  },
+  "POL-004": {
+    "policy_id": "POL-004",
+    "topic": "Hoàn phí & Thôi học",
+    "content": "Phí phát triển trường không được hoàn lại trong mọi trường hợp. Đóng phí cả năm được chiết khấu 5% theo chính sách từng năm.",
+    "source": "Biểu phí VinSchool 2024-2025 - Mục 5",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "hoan phi",
+      "thoi hoc",
+      "dong phi ca nam",
+      "chiet khau"
+    ]
+  },
+  "POL-005": {
+    "policy_id": "POL-005",
+    "topic": "Chương trình học",
+    "content": "Chương trình gồm 5 lĩnh vực chính: Ngôn ngữ, Khoa học xã hội, Toán & CNTT, Khoa học tự nhiên, Phát triển cá nhân (CLISE).",
+    "source": "Cẩm nang học thuật - Mục chương trình",
+    "category": "curriculum",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "chuong trinh hoc",
+      "hoc thuat",
+      "linh vuc",
+      "clise"
+    ]
+  },
+  "POL-006": {
+    "policy_id": "POL-006",
+    "topic": "Điểm danh & chuyên cần",
+    "content": "Học sinh đi học muộn hoặc nghỉ không phép sẽ được ghi nhận trên hệ thống và gửi thông báo tới phụ huynh trong ngày.",
+    "source": "Sổ tay phụ huynh - Mục chuyên cần",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "chuyen can",
+      "di hoc muon",
+      "nghi khong phep",
+      "thong bao"
+    ]
+  },
+  "POL-007": {
+    "policy_id": "POL-007",
+    "topic": "Quy định đồng phục",
+    "content": "Học sinh mặc đồng phục đúng quy định từ thứ Hai đến thứ Sáu. Riêng ngày có thể dục được phép mặc đồng phục thể thao.",
+    "source": "Cẩm nang phụ huynh - Mục nề nếp học đường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "dong phuc",
+      "the duc",
+      "ne nep",
+      "hoc duong"
+    ]
+  },
+  "POL-008": {
+    "policy_id": "POL-008",
+    "topic": "Kênh liên hệ phụ huynh",
+    "content": "Phụ huynh có thể liên hệ GVCN qua ứng dụng phụ huynh hoặc email trường trong giờ hành chính. Trường hợp khẩn cấp liên hệ hotline cơ sở.",
+    "source": "Sổ tay liên lạc điện tử - Mục hỗ trợ phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "giao vien chu nhiem",
+      "hotline",
+      "email",
+      "ung dung phu huynh"
+    ]
+  },
+  "POL-009": {
+    "policy_id": "POL-009",
+    "topic": "Học sinh nhiều con cùng trường",
+    "content": "Phụ huynh có nhiều con học tại VinSchool cần chọn đúng hồ sơ học sinh trước khi xem điểm số học phí hoặc lịch học để tránh nhầm thông tin.",
+    "source": "Quy trình sử dụng cổng phụ huynh - Điều 2.3",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "nhieu con",
+      "ho so hoc sinh",
+      "chuyen doi hoc sinh",
+      "nham thong tin"
+    ]
+  },
+  "POL-010": {
+    "policy_id": "POL-010",
+    "topic": "Nộp học phí",
+    "content": "Học phí có thể thanh toán theo kỳ hoặc cả năm tùy chương trình. Khoản chưa thanh toán sẽ hiển thị trạng thái Pending trên cổng phụ huynh.",
+    "source": "Hướng dẫn thanh toán học phí - Mục 1",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "nop hoc phi",
+      "pending",
+      "thanh toan theo ky",
+      "cong phu huynh"
+    ]
+  },
+  "POL-011": {
+    "policy_id": "POL-011",
+    "topic": "Khảo thí & lịch thi",
+    "content": "Lịch kiểm tra định kỳ và lịch thi học kỳ được cập nhật theo lớp trên hệ thống trước tối thiểu 07 ngày.",
+    "source": "Quy chế khảo thí nội bộ - Điều 6",
+    "category": "assessment",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "lich thi",
+      "kiem tra dinh ky",
+      "khao thi",
+      "hoc ky"
+    ]
+  },
+  "POL-012": {
+    "policy_id": "POL-012",
+    "topic": "Phản hồi dữ liệu sai",
+    "content": "Nếu thông tin điểm số học phí hoặc chuyên cần chưa chính xác phụ huynh bấm Phản hồi không đúng để nhà trường kiểm tra và cập nhật.",
+    "source": "Quy trình hỗ trợ phụ huynh số - Mục 4",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "phan hoi",
+      "du lieu sai",
+      "diem so",
+      "chuyen can"
+    ]
+  },
+  "POL-013": {
+    "policy_id": "POL-013",
+    "topic": "Hoạt động câu lạc bộ",
+    "content": "Phí câu lạc bộ ngoài giờ học được thu riêng theo từng học kỳ và không nằm trong học phí cơ bản.",
+    "source": "Quy định CLB học sinh - Điều 3",
+    "category": "extracurricular",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "cau lac bo",
+      "phi clb",
+      "ngoai gio hoc",
+      "dang ky"
+    ]
+  },
+  "POL-014": {
+    "policy_id": "POL-014",
+    "topic": "Quy định ra vào cổng - đầu năm học",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại đầu năm học. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-015": {
+    "policy_id": "POL-015",
+    "topic": "Sử dụng thiết bị điện tử - đầu năm học",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại đầu năm học. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-016": {
+    "policy_id": "POL-016",
+    "topic": "Nộp bài tập và deadline - đầu năm học",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại đầu năm học. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-017": {
+    "policy_id": "POL-017",
+    "topic": "Đăng ký câu lạc bộ học thuật - đầu năm học",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại đầu năm học. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-018": {
+    "policy_id": "POL-018",
+    "topic": "Đổi tuyến xe buýt - đầu năm học",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại đầu năm học. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-019": {
+    "policy_id": "POL-019",
+    "topic": "Cập nhật thông tin liên hệ - đầu năm học",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại đầu năm học. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-020": {
+    "policy_id": "POL-020",
+    "topic": "Đăng ký tư vấn học tập - đầu năm học",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại đầu năm học khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-021": {
+    "policy_id": "POL-021",
+    "topic": "Quy định tham gia kiểm tra bổ sung - đầu năm học",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại đầu năm học. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-022": {
+    "policy_id": "POL-022",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - đầu năm học",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại đầu năm học cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-023": {
+    "policy_id": "POL-023",
+    "topic": "Thông báo thời tiết bất thường - đầu năm học",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại đầu năm học, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-024": {
+    "policy_id": "POL-024",
+    "topic": "Xác nhận tham gia sự kiện trường - đầu năm học",
+    "content": "Các sự kiện của trường tại đầu năm học yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-025": {
+    "policy_id": "POL-025",
+    "topic": "Quy định sử dụng email trường - đầu năm học",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại đầu năm học. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-026": {
+    "policy_id": "POL-026",
+    "topic": "Cập nhật kết quả rèn luyện - đầu năm học",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại đầu năm học. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-027": {
+    "policy_id": "POL-027",
+    "topic": "Quy trình xin nghỉ học có phép - đầu năm học",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại đầu năm học để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-028": {
+    "policy_id": "POL-028",
+    "topic": "Đăng ký dịch vụ bán trú - đầu năm học",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại đầu năm học. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-029": {
+    "policy_id": "POL-029",
+    "topic": "Quy định hoàn thành học phí theo đợt - đầu năm học",
+    "content": "Các khoản học phí theo đợt tại đầu năm học cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-030": {
+    "policy_id": "POL-030",
+    "topic": "Thông báo lịch họp phụ huynh - đầu năm học",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại đầu năm học qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-031": {
+    "policy_id": "POL-031",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - đầu năm học",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại đầu năm học cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-032": {
+    "policy_id": "POL-032",
+    "topic": "Bảo quản tài sản cá nhân - đầu năm học",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại đầu năm học. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-033": {
+    "policy_id": "POL-033",
+    "topic": "Quy trình tiếp nhận phản ánh - đầu năm học",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại đầu năm học được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-034": {
+    "policy_id": "POL-034",
+    "topic": "Quy định ra vào cổng - học kỳ I",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại học kỳ I. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-035": {
+    "policy_id": "POL-035",
+    "topic": "Sử dụng thiết bị điện tử - học kỳ I",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại học kỳ I. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-036": {
+    "policy_id": "POL-036",
+    "topic": "Nộp bài tập và deadline - học kỳ I",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại học kỳ I. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-037": {
+    "policy_id": "POL-037",
+    "topic": "Đăng ký câu lạc bộ học thuật - học kỳ I",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại học kỳ I. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-038": {
+    "policy_id": "POL-038",
+    "topic": "Đổi tuyến xe buýt - học kỳ I",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại học kỳ I. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-039": {
+    "policy_id": "POL-039",
+    "topic": "Cập nhật thông tin liên hệ - học kỳ I",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại học kỳ I. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-040": {
+    "policy_id": "POL-040",
+    "topic": "Đăng ký tư vấn học tập - học kỳ I",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại học kỳ I khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-041": {
+    "policy_id": "POL-041",
+    "topic": "Quy định tham gia kiểm tra bổ sung - học kỳ I",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại học kỳ I. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-042": {
+    "policy_id": "POL-042",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - học kỳ I",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại học kỳ I cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-043": {
+    "policy_id": "POL-043",
+    "topic": "Thông báo thời tiết bất thường - học kỳ I",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại học kỳ I, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-044": {
+    "policy_id": "POL-044",
+    "topic": "Xác nhận tham gia sự kiện trường - học kỳ I",
+    "content": "Các sự kiện của trường tại học kỳ I yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-045": {
+    "policy_id": "POL-045",
+    "topic": "Quy định sử dụng email trường - học kỳ I",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại học kỳ I. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-046": {
+    "policy_id": "POL-046",
+    "topic": "Cập nhật kết quả rèn luyện - học kỳ I",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại học kỳ I. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-047": {
+    "policy_id": "POL-047",
+    "topic": "Quy trình xin nghỉ học có phép - học kỳ I",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại học kỳ I để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-048": {
+    "policy_id": "POL-048",
+    "topic": "Đăng ký dịch vụ bán trú - học kỳ I",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại học kỳ I. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-049": {
+    "policy_id": "POL-049",
+    "topic": "Quy định hoàn thành học phí theo đợt - học kỳ I",
+    "content": "Các khoản học phí theo đợt tại học kỳ I cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-050": {
+    "policy_id": "POL-050",
+    "topic": "Thông báo lịch họp phụ huynh - học kỳ I",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại học kỳ I qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-051": {
+    "policy_id": "POL-051",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - học kỳ I",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại học kỳ I cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-052": {
+    "policy_id": "POL-052",
+    "topic": "Bảo quản tài sản cá nhân - học kỳ I",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại học kỳ I. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-053": {
+    "policy_id": "POL-053",
+    "topic": "Quy trình tiếp nhận phản ánh - học kỳ I",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại học kỳ I được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-054": {
+    "policy_id": "POL-054",
+    "topic": "Quy định ra vào cổng - học kỳ II",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại học kỳ II. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-055": {
+    "policy_id": "POL-055",
+    "topic": "Sử dụng thiết bị điện tử - học kỳ II",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại học kỳ II. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-056": {
+    "policy_id": "POL-056",
+    "topic": "Nộp bài tập và deadline - học kỳ II",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại học kỳ II. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-057": {
+    "policy_id": "POL-057",
+    "topic": "Đăng ký câu lạc bộ học thuật - học kỳ II",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại học kỳ II. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-058": {
+    "policy_id": "POL-058",
+    "topic": "Đổi tuyến xe buýt - học kỳ II",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại học kỳ II. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-059": {
+    "policy_id": "POL-059",
+    "topic": "Cập nhật thông tin liên hệ - học kỳ II",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại học kỳ II. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-060": {
+    "policy_id": "POL-060",
+    "topic": "Đăng ký tư vấn học tập - học kỳ II",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại học kỳ II khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-061": {
+    "policy_id": "POL-061",
+    "topic": "Quy định tham gia kiểm tra bổ sung - học kỳ II",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại học kỳ II. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-062": {
+    "policy_id": "POL-062",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - học kỳ II",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại học kỳ II cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-063": {
+    "policy_id": "POL-063",
+    "topic": "Thông báo thời tiết bất thường - học kỳ II",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại học kỳ II, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-064": {
+    "policy_id": "POL-064",
+    "topic": "Xác nhận tham gia sự kiện trường - học kỳ II",
+    "content": "Các sự kiện của trường tại học kỳ II yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-065": {
+    "policy_id": "POL-065",
+    "topic": "Quy định sử dụng email trường - học kỳ II",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại học kỳ II. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-066": {
+    "policy_id": "POL-066",
+    "topic": "Cập nhật kết quả rèn luyện - học kỳ II",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại học kỳ II. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-067": {
+    "policy_id": "POL-067",
+    "topic": "Quy trình xin nghỉ học có phép - học kỳ II",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại học kỳ II để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-068": {
+    "policy_id": "POL-068",
+    "topic": "Đăng ký dịch vụ bán trú - học kỳ II",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại học kỳ II. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-069": {
+    "policy_id": "POL-069",
+    "topic": "Quy định hoàn thành học phí theo đợt - học kỳ II",
+    "content": "Các khoản học phí theo đợt tại học kỳ II cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-070": {
+    "policy_id": "POL-070",
+    "topic": "Thông báo lịch họp phụ huynh - học kỳ II",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại học kỳ II qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-071": {
+    "policy_id": "POL-071",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - học kỳ II",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại học kỳ II cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-072": {
+    "policy_id": "POL-072",
+    "topic": "Bảo quản tài sản cá nhân - học kỳ II",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại học kỳ II. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-073": {
+    "policy_id": "POL-073",
+    "topic": "Quy trình tiếp nhận phản ánh - học kỳ II",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại học kỳ II được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-074": {
+    "policy_id": "POL-074",
+    "topic": "Quy định ra vào cổng - giai đoạn giữa kỳ",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại giai đoạn giữa kỳ. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-075": {
+    "policy_id": "POL-075",
+    "topic": "Sử dụng thiết bị điện tử - giai đoạn giữa kỳ",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại giai đoạn giữa kỳ. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-076": {
+    "policy_id": "POL-076",
+    "topic": "Nộp bài tập và deadline - giai đoạn giữa kỳ",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại giai đoạn giữa kỳ. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-077": {
+    "policy_id": "POL-077",
+    "topic": "Đăng ký câu lạc bộ học thuật - giai đoạn giữa kỳ",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại giai đoạn giữa kỳ. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-078": {
+    "policy_id": "POL-078",
+    "topic": "Đổi tuyến xe buýt - giai đoạn giữa kỳ",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại giai đoạn giữa kỳ. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-079": {
+    "policy_id": "POL-079",
+    "topic": "Cập nhật thông tin liên hệ - giai đoạn giữa kỳ",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại giai đoạn giữa kỳ. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-080": {
+    "policy_id": "POL-080",
+    "topic": "Đăng ký tư vấn học tập - giai đoạn giữa kỳ",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại giai đoạn giữa kỳ khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-081": {
+    "policy_id": "POL-081",
+    "topic": "Quy định tham gia kiểm tra bổ sung - giai đoạn giữa kỳ",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại giai đoạn giữa kỳ. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-082": {
+    "policy_id": "POL-082",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - giai đoạn giữa kỳ",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại giai đoạn giữa kỳ cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-083": {
+    "policy_id": "POL-083",
+    "topic": "Thông báo thời tiết bất thường - giai đoạn giữa kỳ",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại giai đoạn giữa kỳ, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-084": {
+    "policy_id": "POL-084",
+    "topic": "Xác nhận tham gia sự kiện trường - giai đoạn giữa kỳ",
+    "content": "Các sự kiện của trường tại giai đoạn giữa kỳ yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-085": {
+    "policy_id": "POL-085",
+    "topic": "Quy định sử dụng email trường - giai đoạn giữa kỳ",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại giai đoạn giữa kỳ. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-086": {
+    "policy_id": "POL-086",
+    "topic": "Cập nhật kết quả rèn luyện - giai đoạn giữa kỳ",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại giai đoạn giữa kỳ. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-087": {
+    "policy_id": "POL-087",
+    "topic": "Quy trình xin nghỉ học có phép - giai đoạn giữa kỳ",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại giai đoạn giữa kỳ để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-088": {
+    "policy_id": "POL-088",
+    "topic": "Đăng ký dịch vụ bán trú - giai đoạn giữa kỳ",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại giai đoạn giữa kỳ. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-089": {
+    "policy_id": "POL-089",
+    "topic": "Quy định hoàn thành học phí theo đợt - giai đoạn giữa kỳ",
+    "content": "Các khoản học phí theo đợt tại giai đoạn giữa kỳ cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-090": {
+    "policy_id": "POL-090",
+    "topic": "Thông báo lịch họp phụ huynh - giai đoạn giữa kỳ",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại giai đoạn giữa kỳ qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-091": {
+    "policy_id": "POL-091",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - giai đoạn giữa kỳ",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại giai đoạn giữa kỳ cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-092": {
+    "policy_id": "POL-092",
+    "topic": "Bảo quản tài sản cá nhân - giai đoạn giữa kỳ",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại giai đoạn giữa kỳ. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-093": {
+    "policy_id": "POL-093",
+    "topic": "Quy trình tiếp nhận phản ánh - giai đoạn giữa kỳ",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại giai đoạn giữa kỳ được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-094": {
+    "policy_id": "POL-094",
+    "topic": "Quy định ra vào cổng - giai đoạn cuối kỳ",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại giai đoạn cuối kỳ. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-095": {
+    "policy_id": "POL-095",
+    "topic": "Sử dụng thiết bị điện tử - giai đoạn cuối kỳ",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại giai đoạn cuối kỳ. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-096": {
+    "policy_id": "POL-096",
+    "topic": "Nộp bài tập và deadline - giai đoạn cuối kỳ",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại giai đoạn cuối kỳ. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-097": {
+    "policy_id": "POL-097",
+    "topic": "Đăng ký câu lạc bộ học thuật - giai đoạn cuối kỳ",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại giai đoạn cuối kỳ. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-098": {
+    "policy_id": "POL-098",
+    "topic": "Đổi tuyến xe buýt - giai đoạn cuối kỳ",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại giai đoạn cuối kỳ. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-099": {
+    "policy_id": "POL-099",
+    "topic": "Cập nhật thông tin liên hệ - giai đoạn cuối kỳ",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại giai đoạn cuối kỳ. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-100": {
+    "policy_id": "POL-100",
+    "topic": "Đăng ký tư vấn học tập - giai đoạn cuối kỳ",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại giai đoạn cuối kỳ khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-101": {
+    "policy_id": "POL-101",
+    "topic": "Quy định tham gia kiểm tra bổ sung - giai đoạn cuối kỳ",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại giai đoạn cuối kỳ. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-102": {
+    "policy_id": "POL-102",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - giai đoạn cuối kỳ",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại giai đoạn cuối kỳ cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-103": {
+    "policy_id": "POL-103",
+    "topic": "Thông báo thời tiết bất thường - giai đoạn cuối kỳ",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại giai đoạn cuối kỳ, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-104": {
+    "policy_id": "POL-104",
+    "topic": "Xác nhận tham gia sự kiện trường - giai đoạn cuối kỳ",
+    "content": "Các sự kiện của trường tại giai đoạn cuối kỳ yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-105": {
+    "policy_id": "POL-105",
+    "topic": "Quy định sử dụng email trường - giai đoạn cuối kỳ",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại giai đoạn cuối kỳ. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-106": {
+    "policy_id": "POL-106",
+    "topic": "Cập nhật kết quả rèn luyện - giai đoạn cuối kỳ",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại giai đoạn cuối kỳ. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-107": {
+    "policy_id": "POL-107",
+    "topic": "Quy trình xin nghỉ học có phép - giai đoạn cuối kỳ",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại giai đoạn cuối kỳ để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-108": {
+    "policy_id": "POL-108",
+    "topic": "Đăng ký dịch vụ bán trú - giai đoạn cuối kỳ",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại giai đoạn cuối kỳ. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-109": {
+    "policy_id": "POL-109",
+    "topic": "Quy định hoàn thành học phí theo đợt - giai đoạn cuối kỳ",
+    "content": "Các khoản học phí theo đợt tại giai đoạn cuối kỳ cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-110": {
+    "policy_id": "POL-110",
+    "topic": "Thông báo lịch họp phụ huynh - giai đoạn cuối kỳ",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại giai đoạn cuối kỳ qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-111": {
+    "policy_id": "POL-111",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - giai đoạn cuối kỳ",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại giai đoạn cuối kỳ cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-112": {
+    "policy_id": "POL-112",
+    "topic": "Bảo quản tài sản cá nhân - giai đoạn cuối kỳ",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại giai đoạn cuối kỳ. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-113": {
+    "policy_id": "POL-113",
+    "topic": "Quy trình tiếp nhận phản ánh - giai đoạn cuối kỳ",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại giai đoạn cuối kỳ được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-114": {
+    "policy_id": "POL-114",
+    "topic": "Quy định ra vào cổng - các tuần kiểm tra định kỳ",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại các tuần kiểm tra định kỳ. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-115": {
+    "policy_id": "POL-115",
+    "topic": "Sử dụng thiết bị điện tử - các tuần kiểm tra định kỳ",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại các tuần kiểm tra định kỳ. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-116": {
+    "policy_id": "POL-116",
+    "topic": "Nộp bài tập và deadline - các tuần kiểm tra định kỳ",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại các tuần kiểm tra định kỳ. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-117": {
+    "policy_id": "POL-117",
+    "topic": "Đăng ký câu lạc bộ học thuật - các tuần kiểm tra định kỳ",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại các tuần kiểm tra định kỳ. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-118": {
+    "policy_id": "POL-118",
+    "topic": "Đổi tuyến xe buýt - các tuần kiểm tra định kỳ",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại các tuần kiểm tra định kỳ. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-119": {
+    "policy_id": "POL-119",
+    "topic": "Cập nhật thông tin liên hệ - các tuần kiểm tra định kỳ",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại các tuần kiểm tra định kỳ. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-120": {
+    "policy_id": "POL-120",
+    "topic": "Đăng ký tư vấn học tập - các tuần kiểm tra định kỳ",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại các tuần kiểm tra định kỳ khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-121": {
+    "policy_id": "POL-121",
+    "topic": "Quy định tham gia kiểm tra bổ sung - các tuần kiểm tra định kỳ",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại các tuần kiểm tra định kỳ. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-122": {
+    "policy_id": "POL-122",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - các tuần kiểm tra định kỳ",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại các tuần kiểm tra định kỳ cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-123": {
+    "policy_id": "POL-123",
+    "topic": "Thông báo thời tiết bất thường - các tuần kiểm tra định kỳ",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại các tuần kiểm tra định kỳ, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-124": {
+    "policy_id": "POL-124",
+    "topic": "Xác nhận tham gia sự kiện trường - các tuần kiểm tra định kỳ",
+    "content": "Các sự kiện của trường tại các tuần kiểm tra định kỳ yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-125": {
+    "policy_id": "POL-125",
+    "topic": "Quy định sử dụng email trường - các tuần kiểm tra định kỳ",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại các tuần kiểm tra định kỳ. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-126": {
+    "policy_id": "POL-126",
+    "topic": "Cập nhật kết quả rèn luyện - các tuần kiểm tra định kỳ",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại các tuần kiểm tra định kỳ. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-127": {
+    "policy_id": "POL-127",
+    "topic": "Quy trình xin nghỉ học có phép - các tuần kiểm tra định kỳ",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại các tuần kiểm tra định kỳ để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-128": {
+    "policy_id": "POL-128",
+    "topic": "Đăng ký dịch vụ bán trú - các tuần kiểm tra định kỳ",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại các tuần kiểm tra định kỳ. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-129": {
+    "policy_id": "POL-129",
+    "topic": "Quy định hoàn thành học phí theo đợt - các tuần kiểm tra định kỳ",
+    "content": "Các khoản học phí theo đợt tại các tuần kiểm tra định kỳ cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-130": {
+    "policy_id": "POL-130",
+    "topic": "Thông báo lịch họp phụ huynh - các tuần kiểm tra định kỳ",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại các tuần kiểm tra định kỳ qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-131": {
+    "policy_id": "POL-131",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - các tuần kiểm tra định kỳ",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại các tuần kiểm tra định kỳ cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-132": {
+    "policy_id": "POL-132",
+    "topic": "Bảo quản tài sản cá nhân - các tuần kiểm tra định kỳ",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại các tuần kiểm tra định kỳ. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-133": {
+    "policy_id": "POL-133",
+    "topic": "Quy trình tiếp nhận phản ánh - các tuần kiểm tra định kỳ",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại các tuần kiểm tra định kỳ được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-134": {
+    "policy_id": "POL-134",
+    "topic": "Quy định ra vào cổng - các ngày có hoạt động toàn trường",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại các ngày có hoạt động toàn trường. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-135": {
+    "policy_id": "POL-135",
+    "topic": "Sử dụng thiết bị điện tử - các ngày có hoạt động toàn trường",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại các ngày có hoạt động toàn trường. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-136": {
+    "policy_id": "POL-136",
+    "topic": "Nộp bài tập và deadline - các ngày có hoạt động toàn trường",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại các ngày có hoạt động toàn trường. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-137": {
+    "policy_id": "POL-137",
+    "topic": "Đăng ký câu lạc bộ học thuật - các ngày có hoạt động toàn trường",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại các ngày có hoạt động toàn trường. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-138": {
+    "policy_id": "POL-138",
+    "topic": "Đổi tuyến xe buýt - các ngày có hoạt động toàn trường",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại các ngày có hoạt động toàn trường. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-139": {
+    "policy_id": "POL-139",
+    "topic": "Cập nhật thông tin liên hệ - các ngày có hoạt động toàn trường",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại các ngày có hoạt động toàn trường. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-140": {
+    "policy_id": "POL-140",
+    "topic": "Đăng ký tư vấn học tập - các ngày có hoạt động toàn trường",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại các ngày có hoạt động toàn trường khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-141": {
+    "policy_id": "POL-141",
+    "topic": "Quy định tham gia kiểm tra bổ sung - các ngày có hoạt động toàn trường",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại các ngày có hoạt động toàn trường. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-142": {
+    "policy_id": "POL-142",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - các ngày có hoạt động toàn trường",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại các ngày có hoạt động toàn trường cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-143": {
+    "policy_id": "POL-143",
+    "topic": "Thông báo thời tiết bất thường - các ngày có hoạt động toàn trường",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại các ngày có hoạt động toàn trường, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-144": {
+    "policy_id": "POL-144",
+    "topic": "Xác nhận tham gia sự kiện trường - các ngày có hoạt động toàn trường",
+    "content": "Các sự kiện của trường tại các ngày có hoạt động toàn trường yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-145": {
+    "policy_id": "POL-145",
+    "topic": "Quy định sử dụng email trường - các ngày có hoạt động toàn trường",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại các ngày có hoạt động toàn trường. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-146": {
+    "policy_id": "POL-146",
+    "topic": "Cập nhật kết quả rèn luyện - các ngày có hoạt động toàn trường",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại các ngày có hoạt động toàn trường. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-147": {
+    "policy_id": "POL-147",
+    "topic": "Quy trình xin nghỉ học có phép - các ngày có hoạt động toàn trường",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại các ngày có hoạt động toàn trường để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-148": {
+    "policy_id": "POL-148",
+    "topic": "Đăng ký dịch vụ bán trú - các ngày có hoạt động toàn trường",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại các ngày có hoạt động toàn trường. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-149": {
+    "policy_id": "POL-149",
+    "topic": "Quy định hoàn thành học phí theo đợt - các ngày có hoạt động toàn trường",
+    "content": "Các khoản học phí theo đợt tại các ngày có hoạt động toàn trường cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-150": {
+    "policy_id": "POL-150",
+    "topic": "Thông báo lịch họp phụ huynh - các ngày có hoạt động toàn trường",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại các ngày có hoạt động toàn trường qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-151": {
+    "policy_id": "POL-151",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - các ngày có hoạt động toàn trường",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại các ngày có hoạt động toàn trường cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-152": {
+    "policy_id": "POL-152",
+    "topic": "Bảo quản tài sản cá nhân - các ngày có hoạt động toàn trường",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại các ngày có hoạt động toàn trường. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-153": {
+    "policy_id": "POL-153",
+    "topic": "Quy trình tiếp nhận phản ánh - các ngày có hoạt động toàn trường",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại các ngày có hoạt động toàn trường được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-154": {
+    "policy_id": "POL-154",
+    "topic": "Quy định ra vào cổng - thời gian vận hành thường lệ",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại thời gian vận hành thường lệ. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-155": {
+    "policy_id": "POL-155",
+    "topic": "Sử dụng thiết bị điện tử - thời gian vận hành thường lệ",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại thời gian vận hành thường lệ. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-156": {
+    "policy_id": "POL-156",
+    "topic": "Nộp bài tập và deadline - thời gian vận hành thường lệ",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại thời gian vận hành thường lệ. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-157": {
+    "policy_id": "POL-157",
+    "topic": "Đăng ký câu lạc bộ học thuật - thời gian vận hành thường lệ",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại thời gian vận hành thường lệ. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-158": {
+    "policy_id": "POL-158",
+    "topic": "Đổi tuyến xe buýt - thời gian vận hành thường lệ",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại thời gian vận hành thường lệ. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-159": {
+    "policy_id": "POL-159",
+    "topic": "Cập nhật thông tin liên hệ - thời gian vận hành thường lệ",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại thời gian vận hành thường lệ. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-160": {
+    "policy_id": "POL-160",
+    "topic": "Đăng ký tư vấn học tập - thời gian vận hành thường lệ",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại thời gian vận hành thường lệ khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-161": {
+    "policy_id": "POL-161",
+    "topic": "Quy định tham gia kiểm tra bổ sung - thời gian vận hành thường lệ",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại thời gian vận hành thường lệ. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-162": {
+    "policy_id": "POL-162",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - thời gian vận hành thường lệ",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại thời gian vận hành thường lệ cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-163": {
+    "policy_id": "POL-163",
+    "topic": "Thông báo thời tiết bất thường - thời gian vận hành thường lệ",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại thời gian vận hành thường lệ, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-164": {
+    "policy_id": "POL-164",
+    "topic": "Xác nhận tham gia sự kiện trường - thời gian vận hành thường lệ",
+    "content": "Các sự kiện của trường tại thời gian vận hành thường lệ yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-165": {
+    "policy_id": "POL-165",
+    "topic": "Quy định sử dụng email trường - thời gian vận hành thường lệ",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại thời gian vận hành thường lệ. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-166": {
+    "policy_id": "POL-166",
+    "topic": "Cập nhật kết quả rèn luyện - thời gian vận hành thường lệ",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại thời gian vận hành thường lệ. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-167": {
+    "policy_id": "POL-167",
+    "topic": "Quy trình xin nghỉ học có phép - thời gian vận hành thường lệ",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại thời gian vận hành thường lệ để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-168": {
+    "policy_id": "POL-168",
+    "topic": "Đăng ký dịch vụ bán trú - thời gian vận hành thường lệ",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại thời gian vận hành thường lệ. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-169": {
+    "policy_id": "POL-169",
+    "topic": "Quy định hoàn thành học phí theo đợt - thời gian vận hành thường lệ",
+    "content": "Các khoản học phí theo đợt tại thời gian vận hành thường lệ cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-170": {
+    "policy_id": "POL-170",
+    "topic": "Thông báo lịch họp phụ huynh - thời gian vận hành thường lệ",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại thời gian vận hành thường lệ qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-171": {
+    "policy_id": "POL-171",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - thời gian vận hành thường lệ",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại thời gian vận hành thường lệ cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-172": {
+    "policy_id": "POL-172",
+    "topic": "Bảo quản tài sản cá nhân - thời gian vận hành thường lệ",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại thời gian vận hành thường lệ. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-173": {
+    "policy_id": "POL-173",
+    "topic": "Quy trình tiếp nhận phản ánh - thời gian vận hành thường lệ",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại thời gian vận hành thường lệ được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-174": {
+    "policy_id": "POL-174",
+    "topic": "Quy định ra vào cổng - các tuần có lịch học điều chỉnh",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại các tuần có lịch học điều chỉnh. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-175": {
+    "policy_id": "POL-175",
+    "topic": "Sử dụng thiết bị điện tử - các tuần có lịch học điều chỉnh",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại các tuần có lịch học điều chỉnh. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-176": {
+    "policy_id": "POL-176",
+    "topic": "Nộp bài tập và deadline - các tuần có lịch học điều chỉnh",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại các tuần có lịch học điều chỉnh. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-177": {
+    "policy_id": "POL-177",
+    "topic": "Đăng ký câu lạc bộ học thuật - các tuần có lịch học điều chỉnh",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại các tuần có lịch học điều chỉnh. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-178": {
+    "policy_id": "POL-178",
+    "topic": "Đổi tuyến xe buýt - các tuần có lịch học điều chỉnh",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại các tuần có lịch học điều chỉnh. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-179": {
+    "policy_id": "POL-179",
+    "topic": "Cập nhật thông tin liên hệ - các tuần có lịch học điều chỉnh",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại các tuần có lịch học điều chỉnh. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-180": {
+    "policy_id": "POL-180",
+    "topic": "Đăng ký tư vấn học tập - các tuần có lịch học điều chỉnh",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại các tuần có lịch học điều chỉnh khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-181": {
+    "policy_id": "POL-181",
+    "topic": "Quy định tham gia kiểm tra bổ sung - các tuần có lịch học điều chỉnh",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại các tuần có lịch học điều chỉnh. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-182": {
+    "policy_id": "POL-182",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - các tuần có lịch học điều chỉnh",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại các tuần có lịch học điều chỉnh cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-183": {
+    "policy_id": "POL-183",
+    "topic": "Thông báo thời tiết bất thường - các tuần có lịch học điều chỉnh",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại các tuần có lịch học điều chỉnh, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-184": {
+    "policy_id": "POL-184",
+    "topic": "Xác nhận tham gia sự kiện trường - các tuần có lịch học điều chỉnh",
+    "content": "Các sự kiện của trường tại các tuần có lịch học điều chỉnh yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-185": {
+    "policy_id": "POL-185",
+    "topic": "Quy định sử dụng email trường - các tuần có lịch học điều chỉnh",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại các tuần có lịch học điều chỉnh. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-186": {
+    "policy_id": "POL-186",
+    "topic": "Cập nhật kết quả rèn luyện - các tuần có lịch học điều chỉnh",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại các tuần có lịch học điều chỉnh. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-187": {
+    "policy_id": "POL-187",
+    "topic": "Quy trình xin nghỉ học có phép - các tuần có lịch học điều chỉnh",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại các tuần có lịch học điều chỉnh để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-188": {
+    "policy_id": "POL-188",
+    "topic": "Đăng ký dịch vụ bán trú - các tuần có lịch học điều chỉnh",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại các tuần có lịch học điều chỉnh. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-189": {
+    "policy_id": "POL-189",
+    "topic": "Quy định hoàn thành học phí theo đợt - các tuần có lịch học điều chỉnh",
+    "content": "Các khoản học phí theo đợt tại các tuần có lịch học điều chỉnh cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-190": {
+    "policy_id": "POL-190",
+    "topic": "Thông báo lịch họp phụ huynh - các tuần có lịch học điều chỉnh",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại các tuần có lịch học điều chỉnh qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-191": {
+    "policy_id": "POL-191",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - các tuần có lịch học điều chỉnh",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại các tuần có lịch học điều chỉnh cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-192": {
+    "policy_id": "POL-192",
+    "topic": "Bảo quản tài sản cá nhân - các tuần có lịch học điều chỉnh",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại các tuần có lịch học điều chỉnh. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-193": {
+    "policy_id": "POL-193",
+    "topic": "Quy trình tiếp nhận phản ánh - các tuần có lịch học điều chỉnh",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại các tuần có lịch học điều chỉnh được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  },
+  "POL-194": {
+    "policy_id": "POL-194",
+    "topic": "Quy định ra vào cổng - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Học sinh và phụ huynh cần tuân thủ hướng dẫn ra vào cổng trường tại kỳ cập nhật hồ sơ định kỳ. Nhà trường có thể kiểm tra thẻ hoặc thông tin xác thực để đảm bảo an ninh.",
+    "source": "Sổ tay học đường - Mục an ninh cổng trường",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-01",
+    "keywords": [
+      "ra vao cong",
+      "an ninh",
+      "the hoc sinh",
+      "kiem tra"
+    ]
+  },
+  "POL-195": {
+    "policy_id": "POL-195",
+    "topic": "Sử dụng thiết bị điện tử - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Thiết bị điện tử cá nhân chỉ được sử dụng theo hướng dẫn của giáo viên tại kỳ cập nhật hồ sơ định kỳ. Trường hợp dùng sai mục đích có thể bị nhắc nhở và ghi nhận trên hệ thống.",
+    "source": "Nội quy lớp học - Mục thiết bị cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-02",
+    "keywords": [
+      "thiet bi dien tu",
+      "dien thoai",
+      "lop hoc",
+      "noi quy"
+    ]
+  },
+  "POL-196": {
+    "policy_id": "POL-196",
+    "topic": "Nộp bài tập và deadline - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Bài tập và sản phẩm học tập cần được nộp đúng hạn theo thông báo tại kỳ cập nhật hồ sơ định kỳ. Nộp muộn có thể ảnh hưởng đến đánh giá tiến độ và cần có xác nhận của giáo viên.",
+    "source": "Quy chế học tập - Mục nộp bài",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-03",
+    "keywords": [
+      "deadline",
+      "nop bai",
+      "bai tap",
+      "hoc tap"
+    ]
+  },
+  "POL-197": {
+    "policy_id": "POL-197",
+    "topic": "Đăng ký câu lạc bộ học thuật - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Việc đăng ký câu lạc bộ học thuật được thực hiện theo đợt tại kỳ cập nhật hồ sơ định kỳ. Phụ huynh và học sinh cần theo dõi thông báo để xác nhận đúng thời gian và chỉ tiêu.",
+    "source": "Quy định CLB học sinh - Mục đăng ký",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-04",
+    "keywords": [
+      "clb hoc thuat",
+      "dang ky",
+      "ngoai khoa",
+      "tham gia"
+    ]
+  },
+  "POL-198": {
+    "policy_id": "POL-198",
+    "topic": "Đổi tuyến xe buýt - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Yêu cầu đổi tuyến xe buýt hoặc thay đổi điểm đón cần được gửi trước thời hạn áp dụng tại kỳ cập nhật hồ sơ định kỳ. Nhà trường sẽ phản hồi sau khi rà soát chỗ trống và lộ trình.",
+    "source": "Quy định dịch vụ xe buýt - Mục điều chỉnh tuyến",
+    "category": "transport",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-05",
+    "keywords": [
+      "doi tuyen xe buyt",
+      "di chuyen",
+      "dang ky lai",
+      "transport"
+    ]
+  },
+  "POL-199": {
+    "policy_id": "POL-199",
+    "topic": "Cập nhật thông tin liên hệ - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Phụ huynh cần cập nhật số điện thoại và email liên hệ chính xác tại kỳ cập nhật hồ sơ định kỳ. Thông tin này được dùng cho thông báo học tập, chuyên cần và các trường hợp khẩn cấp.",
+    "source": "Hướng dẫn sử dụng cổng phụ huynh - Mục hồ sơ tài khoản",
+    "category": "account_access",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-06",
+    "keywords": [
+      "cap nhat lien he",
+      "tai khoan",
+      "phu huynh",
+      "ho so"
+    ]
+  },
+  "POL-200": {
+    "policy_id": "POL-200",
+    "topic": "Đăng ký tư vấn học tập - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Phụ huynh hoặc học sinh có thể đăng ký tư vấn học tập tại kỳ cập nhật hồ sơ định kỳ khi cần trao đổi thêm về tiến độ học tập. Lịch hẹn sẽ được xác nhận qua kênh liên lạc chính thức.",
+    "source": "Quy trình hỗ trợ học đường - Mục tư vấn",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-07",
+    "keywords": [
+      "tu van hoc tap",
+      "ho tro",
+      "lich hen",
+      "giao vien"
+    ]
+  },
+  "POL-201": {
+    "policy_id": "POL-201",
+    "topic": "Quy định tham gia kiểm tra bổ sung - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Học sinh vắng kiểm tra cần hoàn tất thủ tục xin kiểm tra bổ sung theo hướng dẫn tại kỳ cập nhật hồ sơ định kỳ. Các minh chứng liên quan phải được nộp đúng hạn để nhà trường xem xét.",
+    "source": "Quy chế khảo thí - Mục kiểm tra bổ sung",
+    "category": "assessment",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-08",
+    "keywords": [
+      "kiem tra bo sung",
+      "vang thi",
+      "khao thi",
+      "xac nhan"
+    ]
+  },
+  "POL-202": {
+    "policy_id": "POL-202",
+    "topic": "Sử dụng thư viện và tài nguyên học tập - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Học sinh sử dụng thư viện và tài nguyên học tập tại kỳ cập nhật hồ sơ định kỳ cần tuân thủ hướng dẫn mượn trả và giữ gìn tài sản chung. Vi phạm có thể dẫn tới hạn chế quyền sử dụng tạm thời.",
+    "source": "Nội quy thư viện - Mục sử dụng tài nguyên",
+    "category": "student_life",
+    "audience": [
+      "students"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-09",
+    "keywords": [
+      "thu vien",
+      "tai nguyen hoc tap",
+      "muon tra",
+      "hoc sinh"
+    ]
+  },
+  "POL-203": {
+    "policy_id": "POL-203",
+    "topic": "Thông báo thời tiết bất thường - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Khi có thời tiết bất thường ảnh hưởng đến lịch học tại kỳ cập nhật hồ sơ định kỳ, nhà trường sẽ gửi thông báo điều chỉnh qua các kênh chính thức. Phụ huynh cần theo dõi để cập nhật kịp thời.",
+    "source": "Quy trình vận hành - Mục thời tiết",
+    "category": "academic_calendar",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-10",
+    "keywords": [
+      "thoi tiet",
+      "thong bao khan",
+      "lich hoc",
+      "van hanh"
+    ]
+  },
+  "POL-204": {
+    "policy_id": "POL-204",
+    "topic": "Xác nhận tham gia sự kiện trường - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Các sự kiện của trường tại kỳ cập nhật hồ sơ định kỳ yêu cầu học sinh hoặc phụ huynh xác nhận tham gia trước hạn được thông báo. Điều này giúp nhà trường chuẩn bị nhân sự và hậu cần phù hợp.",
+    "source": "Quy định sự kiện học sinh - Mục xác nhận tham gia",
+    "category": "student_life",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-11",
+    "keywords": [
+      "su kien truong",
+      "xac nhan",
+      "tham gia",
+      "hoc sinh"
+    ]
+  },
+  "POL-205": {
+    "policy_id": "POL-205",
+    "topic": "Quy định sử dụng email trường - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Email trường cần được sử dụng đúng mục đích học tập và liên lạc chính thức tại kỳ cập nhật hồ sơ định kỳ. Học sinh không chia sẻ mật khẩu và cần báo ngay nếu có dấu hiệu truy cập bất thường.",
+    "source": "Sổ tay công nghệ - Mục email học đường",
+    "category": "account_access",
+    "audience": [
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-03-12",
+    "keywords": [
+      "email truong",
+      "tai khoan hoc sinh",
+      "bao mat",
+      "cong nghe"
+    ]
+  },
+  "POL-206": {
+    "policy_id": "POL-206",
+    "topic": "Cập nhật kết quả rèn luyện - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Kết quả rèn luyện và nhận xét hành vi được cập nhật định kỳ tại kỳ cập nhật hồ sơ định kỳ. Phụ huynh nên theo dõi cùng kết quả học tập để có hỗ trợ phù hợp cho học sinh.",
+    "source": "Sổ tay phụ huynh - Mục rèn luyện",
+    "category": "attendance",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-04-13",
+    "keywords": [
+      "ren luyen",
+      "nhan xet",
+      "chuyen can",
+      "thai do"
+    ]
+  },
+  "POL-207": {
+    "policy_id": "POL-207",
+    "topic": "Quy trình xin nghỉ học có phép - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Phụ huynh cần gửi yêu cầu xin nghỉ học có phép đúng quy trình tại kỳ cập nhật hồ sơ định kỳ để nhà trường cập nhật chuyên cần chính xác. Thông báo nên được gửi trước hoặc trong ngày nghỉ.",
+    "source": "Hướng dẫn phụ huynh - Mục xin nghỉ",
+    "category": "attendance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-05-14",
+    "keywords": [
+      "xin nghi hoc",
+      "co phep",
+      "phu huynh",
+      "xac nhan"
+    ]
+  },
+  "POL-208": {
+    "policy_id": "POL-208",
+    "topic": "Đăng ký dịch vụ bán trú - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Dịch vụ bán trú được đăng ký và xác nhận theo thông báo tại kỳ cập nhật hồ sơ định kỳ. Các thay đổi liên quan đến dịch vụ cần được gửi trong khung thời gian nhà trường quy định.",
+    "source": "Hướng dẫn dịch vụ học sinh - Mục bán trú",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-06-15",
+    "keywords": [
+      "ban tru",
+      "dang ky dich vu",
+      "hoc sinh",
+      "xac nhan"
+    ]
+  },
+  "POL-209": {
+    "policy_id": "POL-209",
+    "topic": "Quy định hoàn thành học phí theo đợt - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Các khoản học phí theo đợt tại kỳ cập nhật hồ sơ định kỳ cần được hoàn thành đúng thời hạn để tránh phát sinh trạng thái chờ xử lý kéo dài. Phụ huynh nên kiểm tra cổng thông tin thường xuyên.",
+    "source": "Biểu phí và thanh toán - Mục kỳ hạn",
+    "category": "finance",
+    "audience": [
+      "parents"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-07-16",
+    "keywords": [
+      "hoc phi theo dot",
+      "thanh toan",
+      "ky han",
+      "pending"
+    ]
+  },
+  "POL-210": {
+    "policy_id": "POL-210",
+    "topic": "Thông báo lịch họp phụ huynh - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Lịch họp phụ huynh sẽ được thông báo trước tại kỳ cập nhật hồ sơ định kỳ qua ứng dụng hoặc email nhà trường. Phụ huynh cần xác nhận tham gia nếu có yêu cầu từ giáo viên chủ nhiệm.",
+    "source": "Sổ tay liên lạc điện tử - Mục họp phụ huynh",
+    "category": "support",
+    "audience": [
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-08-17",
+    "keywords": [
+      "hop phu huynh",
+      "lich hop",
+      "giao vien chu nhiem",
+      "thong bao"
+    ]
+  },
+  "POL-211": {
+    "policy_id": "POL-211",
+    "topic": "Quy định tham gia hoạt động ngoại khóa - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Học sinh tham gia hoạt động ngoại khóa tại kỳ cập nhật hồ sơ định kỳ cần tuân thủ hướng dẫn của giáo viên phụ trách và các yêu cầu an toàn đi kèm. Một số hoạt động cần xác nhận từ phụ huynh.",
+    "source": "Quy định ngoại khóa - Mục tham gia",
+    "category": "extracurricular",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "medium",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-09-18",
+    "keywords": [
+      "ngoai khoa",
+      "hoat dong hoc sinh",
+      "tham gia",
+      "an toan"
+    ]
+  },
+  "POL-212": {
+    "policy_id": "POL-212",
+    "topic": "Bảo quản tài sản cá nhân - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Học sinh tự bảo quản tài sản cá nhân trong suốt thời gian học tập tại kỳ cập nhật hồ sơ định kỳ. Nhà trường khuyến nghị hạn chế mang các vật dụng giá trị không cần thiết đến trường.",
+    "source": "Nội quy học sinh - Mục tài sản cá nhân",
+    "category": "student_life",
+    "audience": [
+      "students",
+      "parents"
+    ],
+    "priority": "low",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-01-19",
+    "keywords": [
+      "tai san ca nhan",
+      "bao quan",
+      "hoc sinh",
+      "noi quy"
+    ]
+  },
+  "POL-213": {
+    "policy_id": "POL-213",
+    "topic": "Quy trình tiếp nhận phản ánh - kỳ cập nhật hồ sơ định kỳ",
+    "content": "Các phản ánh hoặc yêu cầu hỗ trợ phát sinh tại kỳ cập nhật hồ sơ định kỳ được tiếp nhận qua kênh chính thức và xử lý theo thứ tự ưu tiên. Người gửi nên cung cấp đủ thông tin để việc xác minh nhanh hơn.",
+    "source": "Quy trình hỗ trợ - Mục tiếp nhận phản ánh",
+    "category": "support",
+    "audience": [
+      "parents",
+      "students"
+    ],
+    "priority": "high",
+    "effective_year": "2024-2025",
+    "last_reviewed": "2025-02-20",
+    "keywords": [
+      "phan anh",
+      "ho tro",
+      "xu ly yeu cau",
+      "phan hoi"
+    ]
+  }
+}

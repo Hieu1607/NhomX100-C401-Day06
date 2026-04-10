@@ -1,0 +1,122 @@
+{
+  "VSC-102934": {
+    "billing_period": "Full Year 2024-2025",
+    "items": [
+      {
+        "description": "Học phí hệ Nâng cao",
+        "amount": 189525000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí phát triển trường",
+        "amount": 4200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí bán trú",
+        "amount": 17480000,
+        "status": "Pending"
+      },
+      {
+        "description": "Phí xe buýt (tại điểm)",
+        "amount": 17480000,
+        "status": "Paid"
+      }
+    ],
+    "summary": {
+      "total_amount": 228685000,
+      "discount_applied": "5% (Annual payment)",
+      "remaining_balance": 17480000
+    }
+  },
+  "VSC-105672": {
+    "billing_period": "Semester 2 2024-2025",
+    "items": [
+      {
+        "description": "Học phí hệ Tiêu chuẩn",
+        "amount": 64200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí phát triển trường",
+        "amount": 4200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí bán trú",
+        "amount": 8740000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí học phẩm",
+        "amount": 1650000,
+        "status": "Paid"
+      }
+    ],
+    "summary": {
+      "total_amount": 78790000,
+      "discount_applied": "Sibling support package",
+      "remaining_balance": 0
+    }
+  },
+  "VSC-110387": {
+    "billing_period": "Semester 2 2024-2025",
+    "items": [
+      {
+        "description": "Học phí hệ Tiêu chuẩn",
+        "amount": 78500000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí phát triển trường",
+        "amount": 4200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí xe buýt (Times City - Park Hill)",
+        "amount": 14200000,
+        "status": "Pending"
+      },
+      {
+        "description": "Phí câu lạc bộ bóng rổ",
+        "amount": 3200000,
+        "status": "Paid"
+      }
+    ],
+    "summary": {
+      "total_amount": 99900000,
+      "discount_applied": "None",
+      "remaining_balance": 14200000
+    }
+  },
+  "VSC-118245": {
+    "billing_period": "Full Year 2024-2025",
+    "items": [
+      {
+        "description": "Học phí hệ Nâng cao",
+        "amount": 198000000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí phát triển trường",
+        "amount": 4200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí phòng thí nghiệm STEM",
+        "amount": 6200000,
+        "status": "Paid"
+      },
+      {
+        "description": "Phí ôn luyện IELTS",
+        "amount": 12800000,
+        "status": "Pending"
+      }
+    ],
+    "summary": {
+      "total_amount": 221200000,
+      "discount_applied": "5% (Annual payment)",
+      "remaining_balance": 12800000
+    }
+  }
+}
